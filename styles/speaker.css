@@ -124,8 +124,7 @@ article h2 {
 	padding: 0 0 .25em 0;
 }
 article img {
-	margin: 0 auto 1em; /* Centers the image and adds space below */
-	display: block; /* Makes sure the image behaves like a block element */
+	
 	border: 1px solid black;
 }
 
